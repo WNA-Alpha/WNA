@@ -28,10 +28,10 @@ Lieveling Voedsel:
 Lievelings Dier:
 :
 Tonio Grijpma (Fisherman13)
-Opleiding:
-Werk:
-Specialiteiten:
-Lievelingskleur:
-Kwaliteiten:
-Lieveling Voedsel:
-Lievelings Dier:
+Opleiding: ICT Applicatie Ontwerper
+Werk: WNA werknemer
+Specialiteiten: default dance
+Lievelingskleur: Geel
+Kwaliteiten: Alt tab
+Lieveling Voedsel: Pasta
+Lievelings Dier: Kippen
